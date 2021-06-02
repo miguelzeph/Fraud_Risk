@@ -1,2 +1,3 @@
 # Ignorar todas as pastas:
 */data
+*/.ipynb_checkpoints
